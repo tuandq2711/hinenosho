@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "time": "2022/04/18",
+      "title":"Đây là title",
+      "content": "Đây là khu chỗ để lấy ra nội dung của notice. Vui lòng không nghịch ngợm"
+    }, 
+    {
+      "time": "2022/04/18",
+      "title":"Đây là title",
+      "content": "Đây là khu chỗ để lấy ra nội dung của notice. Vui lòng không nghịch ngợm"
+    }, 
+    {
+      "time": "2022/04/18",
+      "title":"Đây là title",
+      "content": "Đây là khu chỗ để lấy ra nội dung của notice. Vui lòng không nghịch ngợm"
+    }
+  ]
+}
